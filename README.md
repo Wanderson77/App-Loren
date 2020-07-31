@@ -1,5 +1,5 @@
 # App Demo
-> Este APP tem a função de ser um clube de vantangens "só para mulheres",
+> Este APP tem a função de ser um clube de vantagens "só para mulheres",
 > disponibilizando produtos e serviços: Estéticos, DermoCosméticos, Cabeleireiro, e afins ....
 
 [![NPM Version][npm-image]][npm-url]
@@ -76,3 +76,5 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/seunome/seuprojeto/wiki
+
+Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
