@@ -1,6 +1,8 @@
 # App Demo
+
 > Este APP tem a função de ser um clube de vantagens "só para mulheres",
-> disponibilizando produtos e serviços: Estéticos, DermoCosméticos, Cabeleireiro, e afins ....
+> disponibilizando produtos e serviços: Estéticos, DermoCosméticos, Cabeleireiro, e afins ...
+>
 > App de cupons de desconto. Mostre para o usuário que, ao saber a localização dele, é possível enviar cupons exclusivos e muito mais direcionados para o local em que ele está.
 
 [![NPM Version][npm-image]][npm-url]
@@ -8,6 +10,21 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 
 ![App Demo](/src/assets/app-rio-praias.png "App Demo")
+
+## React Native Features
+
++ Function Components
++ AirBnB styles
++ Styled Components
++ React Navigation
++ React Native Camera
++ Material UI / Bootstrap
++ Context API
++ Sliding Card
++ Map animation
++ Imagens com LazyLoad
++ Scroll infinito
++ Place Graph
 
 ## Instalação
 
