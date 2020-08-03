@@ -1,12 +1,11 @@
 # App Demo
 > Este APP tem a função de ser um clube de vantagens "só para mulheres",
 > disponibilizando produtos e serviços: Estéticos, DermoCosméticos, Cabeleireiro, e afins ....
+> App de cupons de desconto. Mostre para o usuário que, ao saber a localização dele, é possível enviar cupons exclusivos e muito mais direcionados para o local em que ele está.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
 ![App Demo](/src/assets/app-rio-praias.png "App Demo")
 
