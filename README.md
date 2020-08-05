@@ -9,7 +9,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-![App Demo](/src/assets/app-rio-praias.png "App Demo")
+![App Demo](/src/assets/app-base.png "App Demo")
 
 ## React Native Features
 
