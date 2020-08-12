@@ -59,6 +59,14 @@ Descreva como instalar todas as dependências para desenvolvimento e como rodar 
 make install
 npm test
 ```
+## Firebase Features
+
++ Authentication
++ RealTime db
++ Analytics
++ Cloud Messaging
++ Storage
++ AdMob
 
 ## Dev Tools Experience
 
