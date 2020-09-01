@@ -1,4 +1,4 @@
-# App Demo
+# App Loren (Consultora Virtual)
 
 > Este APP tem a função de ser um clube de vantagens "só para mulheres",
 > disponibilizando produtos e serviços: Estéticos, DermoCosméticos, Cabeleireiro, e afins ...
@@ -13,8 +13,6 @@
 ## Mobile Apps
 
 + Facebook Login
-+ ASO
-+ Mobile Marketing
 + Geolocalização
 + Push Notifications
 
