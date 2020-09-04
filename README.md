@@ -47,6 +47,7 @@
 + Storybook
 + Material UI
 + TypeScript
++ API Rest / GraphQL
 
 ## Monetização
 
