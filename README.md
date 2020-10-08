@@ -4,6 +4,8 @@
 > disponibilizando produtos e serviços: Estéticos, DermoCosméticos, Cabeleireiro, e afins ...
 >
 > App de cupons de desconto. Mostre para o usuário que, ao saber a localização dele, é possível enviar cupons exclusivos e muito mais direcionados para o local em que ele está.
+>
+> A idéia é seguir o mantra dos apps de “melhorar a experiência do consumidor”. Mas pela ótica de privilegiar o acesso ao comércio local. Para simplificar a descoberta de estabelecimentos na vizinhança, uma função exibe os pedidos recentes feitos por consumidores próximos.
 
 ![App Demo](/src/assets/app-main.png "App Demo")
 
