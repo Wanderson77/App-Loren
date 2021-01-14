@@ -1,4 +1,4 @@
-# App Loren (Consultora Virtual)
+# App Loren (Consultora Virtual) :octocat:
 
 > Este APP tem a função de ser um clube de vantagens "só para mulheres",
 > disponibilizando produtos e serviços: Estéticos, DermoCosméticos, Cabeleireiro, e afins ...
@@ -55,7 +55,5 @@
 
 + C2C
 + In App Purchase
-
-:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
 
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
