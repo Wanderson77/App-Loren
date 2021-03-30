@@ -1,5 +1,4 @@
-# App Loren (Consultora Virtual) :octocat:
-
+# 🙌 App Loren Consultora Virtual
 > Este APP tem a função de ser um clube de vantagens "só para mulheres",
 > disponibilizando produtos e serviços: Estéticos, DermoCosméticos, Cabeleireiro, e afins ...
 >
@@ -42,14 +41,15 @@
 + Storage
 + AdMob
 
-## Dev Tools Experience
+## Dev Tools Experience (Feat)
 
++ TypeScript | JavaScript
 + VSCode
-+ Figma
-+ Storybook
-+ Material UI
-+ TypeScript
-+ API Rest / GraphQL
++ CI | CD (App Center / GitHub Actions)
++ Docker | Kubernetes
++ ServerLess
++ Insomnia | Postman
++ GraphQL | API Rest
 
 ## Monetização
 
