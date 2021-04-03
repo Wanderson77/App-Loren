@@ -32,24 +32,17 @@
 + Scroll infinito
 + Place Graph
 
-## Firebase Features
-
-+ Authentication
-+ RealTime db
-+ Analytics
-+ Cloud Messaging
-+ Storage
-+ AdMob
-
-## Dev Tools Experience (Feat)
+## Dev Experience (Feat)
 
 + TypeScript | JavaScript
 + VSCode
-+ CI | CD (App Center / GitHub Actions)
-+ Docker | Kubernetes
-+ ServerLess
++ Firebase
++ Tests | React Test Library
++ ServerLess (AWS)
 + Insomnia | Postman
 + GraphQL | API Rest
++ CI | CD (App Center / GitHub Actions)
++ Docker | Kubernetes
 
 ## Monetização
 
