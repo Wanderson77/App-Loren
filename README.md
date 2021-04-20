@@ -1,4 +1,5 @@
 # 🙌 App Loren Consultora Virtual
+>
 > Este APP tem a função de ser um clube de vantagens "só para mulheres",
 > disponibilizando produtos e serviços: Estéticos, DermoCosméticos, Cabeleireiro, e afins ...
 >
@@ -16,6 +17,7 @@
 + Facebook Login
 + Geolocalização
 + Push Notifications
++ Encontre um tratamento de estética em seu bairro
 
 ## React Native Features
 
