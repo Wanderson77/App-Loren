@@ -17,8 +17,10 @@
 + Facebook Login
 + Geolocalização
 + Push Notifications
-+ Encontre um tratamento de estética em seu bairro
-
++ Encontre um tratamento de beleza e estética em seu bairro
++ Exibição da lista de produtos
++ Exibição de um produto
+  
 ## React Native Features
 
 + Function Components
