@@ -20,7 +20,8 @@
 + Encontre um tratamento de beleza e estética em seu bairro
 + Exibição da lista de produtos
 + Exibição de um produto
-  
++ Integração com Google Agenda
+
 ## React Native Features
 
 + Function Components
