@@ -37,18 +37,21 @@
 + Scroll infinito
 + Place Graph
 
-## Dev Experience (Feat)
+## DX
 
-+ TypeScript | JavaScript
-+ VSCode
-+ Firebase
-+ Tests | React Test Library
-+ ServerLess (AWS)
-+ Insomnia | Postman
++ VSCode + TypeScript | JavaScript
++ Linter Style AirBnB + Prettier
++ Figma + Storybook
++ ReactoTron
++ Flipper
++ Husky + Lint-staged
++ CommitLint + Commitizen
++ Tests (Jest / React Test Library / Detox)
 + GraphQL | API Rest
-+ CI | CD (App Center / GitHub Actions)
++ Insomnia | Postman
++ CI | CD (App Center / GitHub Actions / FastLane / TestFlight)
 + Docker | Kubernetes
-
+  
 ## Monetização
 
 + C2C
