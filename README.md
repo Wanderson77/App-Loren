@@ -37,6 +37,16 @@
 + Scroll infinito
 + Place Graph
 
+## Firebase
+
++ Authentication
++ RealTime db
++ Analytics
++ Cloud Messaging
++ Storage
++ AppIndex
++ AdMob
+
 ## DX
 
 + VSCode + TypeScript | JavaScript
@@ -51,7 +61,7 @@
 + Insomnia | Postman
 + CI | CD (App Center / GitHub Actions / FastLane / TestFlight)
 + Docker | Kubernetes
-  
+
 ## Monetização
 
 + C2C
