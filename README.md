@@ -22,10 +22,9 @@
 + Exibição de um produto
 + Integração com Google Agenda
 
-## React Native Features
+## React Native / I Love This
 
-+ Function Components
-+ AirBnB styles
++ Hooks
 + Styled Components
 + React Navigation
 + React Native Camera
@@ -49,7 +48,7 @@
 
 ## DX
 
-+ VSCode + TypeScript | JavaScript
++ VSCode + TypeScript | JavaScript (es6)
 + Linter Style AirBnB + Prettier
 + Figma + Storybook
 + ReactoTron
