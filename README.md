@@ -25,6 +25,7 @@
 ## React Native / I Love This
 
 + Hooks
++ Core Components
 + Styled Components
 + React Navigation
 + React Native Camera
