@@ -37,6 +37,7 @@
 + Imagens com LazyLoad
 + Scroll infinito
 + Place Graph
++ API Google Maps
 
 ## Firebase
 
