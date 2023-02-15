@@ -29,7 +29,7 @@
 + Flexbox Layout
 + Styled Components
 + React Navigation
-+ Material UI
++ UI Kit Papper
 + React Native Camera
 + Sliding Card
 + Map animation
@@ -38,7 +38,9 @@
 + Place Graph
 + Context API
 + API Google Maps
++ API Places
 + News API
++ ...e mais
 
 ## Firebase
 
