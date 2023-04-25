@@ -8,4 +8,22 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   header:{},
+  text:{
+    fontSize: '12px',
+    color: 'white',
+    fontWeight: 'bold',
+  },
+  buttonContainer:{
+    height: 30,
+    width: 50,
+    position: 'absolute',
+    padding: '0 0 0 0',
+    paddingHorizontal: '15',
+  },
+  avatar:{
+    height: 68,
+    width: 68,
+    borderRadius: 34,
+    paddingRight: 10,
+  },
 })
