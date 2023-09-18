@@ -23,23 +23,4 @@
 + Integração com Google Agenda
 + Scroll infinito
 
-## React Native / I Love This
-
-+ Hooks
-+ Core Components
-+ Flexbox Layout
-+ Styled Components
-+ React Navigation
-+ UI Kit Papper
-+ React Native Camera
-+ Sliding Card
-+ Map animation
-+ Imagens com LazyLoad
-+ Place Graph
-+ Context API
-+ API Google Maps
-+ API Places
-+ News API
-+ ...e mais
-
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
